@@ -1,0 +1,23 @@
+{
+  "name": "elena-ostrovsky",
+  "version": "1.0.0",
+  "description": "Landing page for elena-ostrovsky-Web-Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srosajazz/Ostrovsky-Web_Project.git"
+  },
+  "author": "Sergio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srosajazz/Ostrovsky-Web_Project/issues"
+  },
+  "homepage": "https://github.com/srosajazz/Ostrovsky-Web_Project#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
