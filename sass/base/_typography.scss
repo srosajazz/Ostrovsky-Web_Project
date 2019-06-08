@@ -47,3 +47,18 @@ body {
     $color-grey-dark
   );
 }
+
+.heading-tertiary {
+  font-size: $default-font-size;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.paragraph {
+  font-size: $default-font-size;
+  text-align: inherit;
+
+  &:not(:last-child) {
+    margin: 3rem;
+  }
+}
